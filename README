@@ -1,0 +1,23 @@
+# Calculator Project
+
+A simple calculator built using:
+
+- Python (Flask)
+- HTML
+- CSS
+- JavaScript
+
+## Features
+
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage
+- Responsive Design
+
+## Run Locally
+
+```bash
+pip install flask
+python app.py
